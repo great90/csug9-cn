@@ -1,3 +1,4 @@
-# My Awesome Book
+# Chez Scheme 9用户指南
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本书是对[Chez Scheme Version 9 User's Guide](http://cisco.github.io/ChezScheme/csug9.5/)的中文翻译
+
