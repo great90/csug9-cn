@@ -4,5 +4,5 @@
 
 本文档的大部分内容同样适用于Petite Chez Scheme，它与完整的Chez Scheme系统完全兼容，但使用一个高速解释器代替Chez Scheme的增量本机代码编译器。为Chez Scheme编写的程序在Petite Chez Scheme中保持不变，只要它们不需要调用编译器即可。实际上，Petite Chez Scheme是与Chez Scheme相同的源码构建的，包含除了编译器代码之外的其他所有源代码。第2.8节将详细讨论这种区别的影响。
 
-本章的其余部分包括Scheme语法的Chez Scheme扩展（第1.1节），本书中使用的符号约定（第1.2节），系统定制参数的使用（第1.3节），以及在哪里查找有关Chez Scheme的更多信息（第1.4节）。
+本章的其余部分包括Chez Scheme对Scheme语法的扩展（第1.1节），本书中使用的符号约定（第1.2节），系统定制参数的使用（第1.3节），以及在哪里查找有关Chez Scheme的更多信息（第1.4节）。
 
